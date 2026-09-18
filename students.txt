@@ -1,0 +1,15 @@
+25001,ALi Tan,25001@imail.sunway.edu.my
+25002,Abu Lee,25002@imail.sunway.edu.my
+25003,Muthu Chow,25003@imail.sunway.edu.my
+25004,Aaron Kuan,25004@imail.sunway.edu.my
+25005,Chloe Yap,25005@imail.sunway.edu.my
+25006,Lucas Ng,25006@imail.sunway.edu.my
+25007,Nancy Wee,25007@imail.sunway.edu.my
+25008,Candy Chew,25008@imail.sunway.edu.my
+25009,Christina Kwek,25009@imail.sunway.edu.my
+25100,Jade Ng,25100@imail.sunway.edu.my
+25111,Mark Loo,25111@imail.sunway.edu.my
+33333,Coer Lee,33333@imail.sunway.edu.my23232
+23232,Lee Qian Fan,23232@imail.sunway.edu.my
+23565,Lemon,23565@imail.sunway.edu.my
+22303,Kim,22303@imail.sunway.edu.my
