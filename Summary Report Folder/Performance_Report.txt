@@ -1,0 +1,10 @@
+ --- Overall Performance Report ---
+Course ID   Course Name                    Average   Highest    Lowest
+-------------------------------------------------------------------------
+CSC1024     Programming principles           70.9%     90.0%     40.0%
+CSC1202     Programming organisation         68.1%     90.0%     40.0%
+ENG1044     English                         76.82%     99.0%     45.0%
+MTH1114     Maths                            69.8%     95.0%     40.0%
+MUF3001     Biology                          90.0%     90.0%     90.0%
+MUF3003     Economy                          95.0%    100.0%     90.0%
+PHY1234     Physics                           5.0%      5.0%      5.0%
