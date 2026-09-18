@@ -1,0 +1,9 @@
+CSC1024:Programming principles
+CSC1202:Programming organisation
+ENG1044:English
+MTH1114:Maths
+PHY1234:Physics
+CHEM456:Chemistry
+MUF3001:Biology
+MUF3002:Chemistry
+MUF3003:Economy
